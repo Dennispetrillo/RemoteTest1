@@ -3,4 +3,8 @@ It comes before all other files
 
 change for branching
 
+<<<<<<< HEAD
 non fast forward commit
+=======
+no FF on seo_title
+>>>>>>> seo_title
