@@ -1,10 +1,5 @@
-this is the first file I added to my project
+is is the first file I added to my project
 It comes before all other files
 
 change for branching
 
-<<<<<<< HEAD
-non fast forward commit
-=======
-no FF on seo_title
->>>>>>> seo_title
