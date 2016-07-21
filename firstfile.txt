@@ -2,3 +2,5 @@ this is the first file I added to my project
 It comes before all other files
 
 change for branching
+
+no FF on seo_title
