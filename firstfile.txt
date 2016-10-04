@@ -1,2 +1,2 @@
-Modifying for remote test again
+Git Connector test - Bare to Rally
 
